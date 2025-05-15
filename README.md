@@ -2,7 +2,7 @@
 
 This repository contains a series of end-to-end automation exercises using [Cypress](https://www.cypress.io/), focused on hands-on QA interview challenges.
 
-Repository: [github.com/DiegoSPPedroso/interview-qa](https://github.com/DiegoSPPedroso/interview-qa)
+Repository: [github.com/DiegoSPPedroso/interview-qa](https://github.com/DiegoSPPedroso/interview-qa)](https://github.com/DiegoSPPedroso/Interview-QA-v2)
 
 ---
 
