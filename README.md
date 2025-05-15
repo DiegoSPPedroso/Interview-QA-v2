@@ -20,8 +20,8 @@ To get started, clone this repository and install the dependencies.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/DiegoSPPedroso/interview-qa.git
-   cd interview-qa
+   git clone [https://github.com/DiegoSPPedroso/Interview-QA-v2.git](https://github.com/DiegoSPPedroso/Interview-QA-v2.git)
+   cd Interview-QA-v2
    ```
 
 2. Install dependencies:
